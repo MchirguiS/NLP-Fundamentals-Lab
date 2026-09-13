@@ -1,0 +1,101 @@
+﻿text,html_content,url,abbreviation_text
+Hello WORLD!!!,<p>Hello WORLD!!!</p>,https://example.com/test?x=1&y=2,"BTW, this is GREAT!!!"
+THIS is lowercase-ish...,<div><strong>THIS</strong> is lowercase-ish...</div>,http://www.example.org/page,FYI: check this ASAP!
+wow... REALLY???,<h1>wow... REALLY???</h1>,https://openai.com/,LOL!!! idk why :)
+Mixed CaSe TeXt,<span>Mixed CaSe TeXt</span>,https://example.com/a/b#section,"IMO, it's OK."
+  extra spaces  ,<p>  extra spaces  </p>,www.example.com,pls fix this... thx!
+THIS IS A TEST SENTENCE WITH MIXED CASE. -- ,<em>THIS IS A TEST SENTENCE WITH MIXED CASE. -- </em>,https://www.google.com/search?q=hello%20world,"idk, maybe it's fine."
+PLEASE REVIEW THIS ASAP... THANKS! -- ,<br><b>PLEASE REVIEW THIS ASAP... THANKS! -- </b><br>,https://openai.com/research/,FYI: please check ASAP.
+DATA CLEANING IS FUN!!! #TESTING @USER!!!,<em>DATA CLEANING IS FUN!!! #TESTING @USER!!!</em>,https://example.com,"idk, maybe it's fine."
+"hello, world!!! how are you today? -- ","<br><b>hello, world!!! how are you today? -- </b><br>",https://openai.com/research/,"TBH, I wasn't expecting this..."
+caN yOU CHEck the url beLOW????,<div>caN yOU CHEck the url beLOW????</div>,http://localhost:3000/test,"TBH, I wasn't expecting this..."
+wow!!! tHiS contaiNS LOts of pUNcTuatIon?!!!!,<strong>wow!!! tHiS contaiNS LOts of pUNcTuatIon?!!!!</strong>,http://test.example.org/page?id=123,ASAP!!! Important!!!
+DATA CLEANING IS FUN!!! #TESTING @USER?!,<section><p>DATA CLEANING IS FUN!!! #TESTING @USER?!</p></section>,https://example.com/products/item-42?ref=email&utm_source=test,"BRB, checking the link."
+WOW!!! THIS CONTAINS LOTS OF PUNCTUATION?! -- ,<div>WOW!!! THIS CONTAINS LOTS OF PUNCTUATION?! -- </div>,https://openai.com/research/,thx :) see you soon!
+Wow!!! This Contains Lots Of Punctuation?!!!!,<ul><li>Wow!!! This Contains Lots Of Punctuation?!!!!</li><li>BTW...</li></ul>,https://www.google.com/search?q=hello%20world,LOL... what happened???
+DON'T FORGET: EMAIL@EXAMPLE.COM!!! -- ,<h2>DON&#x27;T FORGET: EMAIL@EXAMPLE.COM!!! -- </h2>,https://openai.com/research/,TIL something new!!!
+PLEASE REVIEW THIS ASAP... THANKS! :),<h2>PLEASE REVIEW THIS ASAP... THANKS! :)</h2>,https://openai.com/research/,BTW... did you see this?
+can you check the url below?...,<strong>can you check the url below?...</strong>,http://localhost:3000/test,TIL something new!!!
+"Hello, World!!! How Are You Today??!","<div>Hello, World!!! How Are You Today??!</div>",https://example.com,FYI!!! DON'T delete this.
+"Normal Text Here, But Not Too Normal...???","<em>Normal Text Here, But Not Too Normal...???</em>",https://example.com,FYI!!! DON'T delete this.
+THIS IS A TEST SENTENCE WITH MIXED CASE. -- ,<div>THIS IS A TEST SENTENCE WITH MIXED CASE. -- </div>,https://example.com/products/item-42?ref=email&utm_source=test,ASAP!!! Important!!!
+please review this asap... thanks! -- ,<br><b>please review this asap... thanks! -- </b><br>,https://example.com/products/item-42?ref=email&utm_source=test,LOL... what happened???
+wow!!! thiS ConTaINS lOts of puNctuaTioN?!!!!,<em>wow!!! thiS ConTaINS lOts of puNctuaTioN?!!!!</em>,http://test.example.org/page?id=123,"idk, maybe it's fine."
+don't forget: email@example.com!!!?!,<h2>don&#x27;t forget: email@example.com!!!?!</h2>,http://test.example.org/page?id=123,"BRB, checking the link."
+CAN YOU CHECK THE URL BELOW??!,<br><b>CAN YOU CHECK THE URL BELOW??!</b><br>,http://localhost:3000/test,FYI: please check ASAP.
+"HELLO, WORLD!!! HOW ARE YOU TODAY?!!!","<em>HELLO, WORLD!!! HOW ARE YOU TODAY?!!!</em>",http://localhost:3000/test,LOL... what happened???
+datA cleAning IS fUN!!! #teSTing @USer...,<em>datA cleAning IS fUN!!! #teSTing @USer...</em>,https://www.google.com/search?q=hello%20world,thx :) see you soon!
+"normal text here, but not too normal......","<strong>normal text here, but not too normal......</strong>",https://example.com/products/item-42?ref=email&utm_source=test,thx :) see you soon!
+WoW!!! THis cOntainS LotS Of puNcTuatIoN?! -- ,<strong>WoW!!! THis cOntainS LotS Of puNcTuatIoN?! -- </strong>,https://www.google.com/search?q=hello%20world,"NP, I'll handle it."
+dOn'T forGet: email@exaMPlE.Com!!!???,<strong>dOn&#x27;T forGet: email@exaMPlE.Com!!!???</strong>,https://www.google.com/search?q=hello%20world,ASAP!!! Important!!!
+thIs Is A TesT sentEnCe WitH mixEd case....,<div>thIs Is A TesT sentEnCe WitH mixEd case....</div>,https://example.com/products/item-42?ref=email&utm_source=test,thx :) see you soon!
+"Normal Text Here, But Not Too Normal... -- ","<div>Normal Text Here, But Not Too Normal... -- </div>",http://localhost:3000/test,"NP, I'll handle it."
+Wow!!! This Contains Lots Of Punctuation?! -- ,"<a href=""https://example.com/products/item-42?ref=email&amp;utm_source=test"">CLICK HERE!!!</a>",https://example.com/products/item-42?ref=email&utm_source=test,"TBH, I wasn't expecting this..."
+wow!!! this contains lots of punctuation?!???,<ul><li>wow!!! this contains lots of punctuation?!???</li><li>BTW...</li></ul>,https://example.com/products/item-42?ref=email&utm_source=test,thx :) see you soon!
+Please Review This Asap... Thanks!?!,<p>Please Review This Asap... Thanks!?!</p>,www.example.net/blog/article,pls send it ASAP!!!
+wow!!! this contains lots of punctuation?!?!,<section><p>wow!!! this contains lots of punctuation?!?!</p></section>,http://localhost:3000/test,OMG!!! That's AMAZING!!!
+"normal TexT HErE, but not Too noRmal...???","<span class='highlight'>normal TexT HErE, but not Too noRmal...???</span>",http://localhost:3000/test,thx :) see you soon!
+"normal tEXt heRE, BuT noT toO normal... :)","<ul><li>normal tEXt heRE, BuT noT toO normal... :)</li><li>BTW...</li></ul>",http://localhost:3000/test,TIL something new!!!
+CaN yoU ChEck tHe uRL belOW?!!!???,"<a href=""https://example.com"">CLICK HERE!!!</a>",https://example.com,"idk, maybe it's fine."
+THIS IS A TEST SENTENCE WITH MIXED CASE. :),<em>THIS IS A TEST SENTENCE WITH MIXED CASE. :)</em>,https://example.com,"idk, maybe it's fine."
+"hello, world!!! how are you today????","<span class='highlight'>hello, world!!! how are you today????</span>",http://test.example.org/page?id=123,thx :) see you soon!
+this is a test sentence with mixed case.?!,<h2>this is a test sentence with mixed case.?!</h2>,https://openai.com/research/,ASAP!!! Important!!!
+"normal text here, but not too normal...!!!???","<div>normal text here, but not too normal...!!!???</div>",www.example.net/blog/article,ASAP!!! Important!!!
+Please Review This Asap... Thanks!!!!,<p>Please Review This Asap... Thanks!!!!</p>,www.example.net/blog/article,FYI!!! DON'T delete this.
+woW!!! thIs ContAinS lots oF puncTuaTiOn?!!!!,"<a href=""https://example.com/products/item-42?ref=email&amp;utm_source=test"">CLICK HERE!!!</a>",https://example.com/products/item-42?ref=email&utm_source=test,LOL... what happened???
+don't forget: email@example.com!!!...,<h2>don&#x27;t forget: email@example.com!!!...</h2>,http://localhost:3000/test,"IMO, this looks better."
+Wow!!! This Contains Lots Of Punctuation?!!!!???,<br><b>Wow!!! This Contains Lots Of Punctuation?!!!!???</b><br>,https://example.com,"idk, maybe it's fine."
+this is a test sentence with mixed case. -- ,<span class='highlight'>this is a test sentence with mixed case. -- </span>,https://example.com/products/item-42?ref=email&utm_source=test,TIL something new!!!
+can YoU checK THE Url Below?!!!,<em>can YoU checK THE Url Below?!!!</em>,http://localhost:3000/test,pls send it ASAP!!!
+Can You Check The Url Below????,<p>Can You Check The Url Below????</p>,https://www.google.com/search?q=hello%20world,"NP, I'll handle it."
+Please Review This Asap... Thanks!!!!,<br><b>Please Review This Asap... Thanks!!!!</b><br>,https://example.com,pls send it ASAP!!!
+PLEaSe rEView thIS asap... thAnKs!...,<div>PLEaSe rEView thIS asap... thAnKs!...</div>,https://openai.com/research/,LOL... what happened???
+can you check the url below?!!!???,<strong>can you check the url below?!!!???</strong>,https://example.com,"BTW, this is REALLY useful!!!"
+daTA cLEAninG IS FUn!!! #TeSting @USer!!!???,<h2>daTA cLEAninG IS FUn!!! #TeSting @USer!!!???</h2>,https://example.com,OMG!!! That's AMAZING!!!
+"hello, world!!! how are you today??!","<span class='highlight'>hello, world!!! how are you today??!</span>",www.example.net/blog/article,FYI!!! DON'T delete this.
+wow!!! this contains lots of punctuation?!!!!???,<span class='highlight'>wow!!! this contains lots of punctuation?!!!!???</span>,https://example.com/products/item-42?ref=email&utm_source=test,FYI: please check ASAP.
+Don'T Forget: Email@Example.Com!!!?!,"<a href=""https://www.google.com/search?q=hello%20world"">CLICK HERE!!!</a>",https://www.google.com/search?q=hello%20world,thx :) see you soon!
+this is a test sentence with mixed case....,<span class='highlight'>this is a test sentence with mixed case....</span>,https://example.com/products/item-42?ref=email&utm_source=test,pls send it ASAP!!!
+DATA CLEANING IS FUN!!! #TESTING @USER?!,"<a href=""https://example.com"">CLICK HERE!!!</a>",https://example.com,pls send it ASAP!!!
+"NORMAL TEXT HERE, BUT NOT TOO NORMAL... :)","<br><b>NORMAL TEXT HERE, BUT NOT TOO NORMAL... :)</b><br>",https://example.com/products/item-42?ref=email&utm_source=test,BTW... did you see this?
+"hEllo, worlD!!! hoW arE you toDay?!!!???","<strong>hEllo, worlD!!! hoW arE you toDay?!!!???</strong>",https://openai.com/research/,BTW... did you see this?
+This Is A Test Sentence With Mixed Case. :),<ul><li>This Is A Test Sentence With Mixed Case. :)</li><li>BTW...</li></ul>,http://localhost:3000/test,"IMO, this looks better."
+WOW!!! THIS CONTAINS LOTS OF PUNCTUATION?!...,<h2>WOW!!! THIS CONTAINS LOTS OF PUNCTUATION?!...</h2>,https://openai.com/research/,BTW... did you see this?
+don't forget: email@example.com!!!?!,<span class='highlight'>don&#x27;t forget: email@example.com!!!?!</span>,www.example.net/blog/article,"IMO, this looks better."
+"nORmaL Text here, but not tOo Normal... :)","<br><b>nORmaL Text here, but not tOo Normal... :)</b><br>",https://example.com/products/item-42?ref=email&utm_source=test,"BTW, this is REALLY useful!!!"
+this is a test sentence with mixed case. -- ,<h2>this is a test sentence with mixed case. -- </h2>,https://openai.com/research/,"idk, maybe it's fine."
+thiS IS A tEst SentenCe witH MixEd cAse.?!,"<a href=""www.example.net/blog/article"">CLICK HERE!!!</a>",www.example.net/blog/article,OMG!!! That's AMAZING!!!
+Wow!!! This Contains Lots Of Punctuation?!!!!,<ul><li>Wow!!! This Contains Lots Of Punctuation?!!!!</li><li>BTW...</li></ul>,http://localhost:3000/test,pls send it ASAP!!!
+"HELLO, WORLD!!! HOW ARE YOU TODAY?!!!???","<span class='highlight'>HELLO, WORLD!!! HOW ARE YOU TODAY?!!!???</span>",https://openai.com/research/,BTW... did you see this?
+wow!!! this contains lots of punctuation?!!!!???,"<a href=""http://localhost:3000/test"">CLICK HERE!!!</a>",http://localhost:3000/test,"idk, maybe it's fine."
+Can You Check The Url Below? -- ,<strong>Can You Check The Url Below? -- </strong>,http://localhost:3000/test,thx :) see you soon!
+THIS IS A TEST SENTENCE WITH MIXED CASE....,<span class='highlight'>THIS IS A TEST SENTENCE WITH MIXED CASE....</span>,http://localhost:3000/test,"BTW, this is REALLY useful!!!"
+"normal text here, but not too normal...!!!","<a href=""https://www.google.com/search?q=hello%20world"">CLICK HERE!!!</a>",https://www.google.com/search?q=hello%20world,"NP, I'll handle it."
+data cleaning is fun!!! #testing @user???,<br><b>data cleaning is fun!!! #testing @user???</b><br>,http://test.example.org/page?id=123,FYI!!! DON'T delete this.
+"Normal Text Here, But Not Too Normal... :)","<h2>Normal Text Here, But Not Too Normal... :)</h2>",http://test.example.org/page?id=123,FYI!!! DON'T delete this.
+Don'T Forget: Email@Example.Com!!! -- ,"<a href=""http://localhost:3000/test"">CLICK HERE!!!</a>",http://localhost:3000/test,ASAP!!! Important!!!
+tHis is a Test senTENce WIth mIxEd cAse.!!!???,<section><p>tHis is a Test senTENce WIth mIxEd cAse.!!!???</p></section>,https://example.com/products/item-42?ref=email&utm_source=test,"NP, I'll handle it."
+pleaSe rEview THis ASap... ThankS! :),<p>pleaSe rEview THis ASap... ThankS! :)</p>,www.example.net/blog/article,pls send it ASAP!!!
+please review this asap... thanks!!!!???,<strong>please review this asap... thanks!!!!???</strong>,https://www.google.com/search?q=hello%20world,FYI: please check ASAP.
+"hello, world!!! how are you today?!!!","<em>hello, world!!! how are you today?!!!</em>",https://www.google.com/search?q=hello%20world,OMG!!! That's AMAZING!!!
+"NORMAL TEXT HERE, BUT NOT TOO NORMAL...???","<p>NORMAL TEXT HERE, BUT NOT TOO NORMAL...???</p>",https://www.google.com/search?q=hello%20world,LOL... what happened???
+DATA CLEANING IS FUN!!! #TESTING @USER -- ,<span class='highlight'>DATA CLEANING IS FUN!!! #TESTING @USER -- </span>,https://example.com,"BRB, checking the link."
+"NORMAL TEXT HERE, BUT NOT TOO NORMAL...?!","<em>NORMAL TEXT HERE, BUT NOT TOO NORMAL...?!</em>",www.example.net/blog/article,OMG!!! That's AMAZING!!!
+"Hello, World!!! How Are You Today??!","<p>Hello, World!!! How Are You Today??!</p>",https://openai.com/research/,"BTW, this is REALLY useful!!!"
+dOn't FOrget: emaIl@example.COM!!!!!!,<div>dOn&#x27;t FOrget: emaIl@example.COM!!!!!!</div>,http://localhost:3000/test,FYI: please check ASAP.
+DATA CLEANING IS FUN!!! #TESTING @USER -- ,"<a href=""https://openai.com/research/"">CLICK HERE!!!</a>",https://openai.com/research/,ASAP!!! Important!!!
+PLEASE REVIEW THIS ASAP... THANKS!!!!???,<br><b>PLEASE REVIEW THIS ASAP... THANKS!!!!???</b><br>,www.example.net/blog/article,"IMO, this looks better."
+this is a tESt sentence wiTH MIXed CaSe.?!,"<a href=""https://example.com/products/item-42?ref=email&amp;utm_source=test"">CLICK HERE!!!</a>",https://example.com/products/item-42?ref=email&utm_source=test,LOL... what happened???
+"Normal Text Here, But Not Too Normal... -- ","<section><p>Normal Text Here, But Not Too Normal... -- </p></section>",https://www.google.com/search?q=hello%20world,OMG!!! That's AMAZING!!!
+THIS IS A TEST SENTENCE WITH MIXED CASE.???,<section><p>THIS IS A TEST SENTENCE WITH MIXED CASE.???</p></section>,http://test.example.org/page?id=123,"BTW, this is REALLY useful!!!"
+This Is A Test Sentence With Mixed Case.?!,<ul><li>This Is A Test Sentence With Mixed Case.?!</li><li>BTW...</li></ul>,https://openai.com/research/,"BRB, checking the link."
+DoN'T foRgeT: EMAIl@exampLe.Com!!!?!,<div>DoN&#x27;T foRgeT: EMAIl@exampLe.Com!!!?!</div>,https://www.google.com/search?q=hello%20world,"TBH, I wasn't expecting this..."
+"Hello, World!!! How Are You Today????","<section><p>Hello, World!!! How Are You Today????</p></section>",http://localhost:3000/test,"BRB, checking the link."
+"NORMAL TEXT HERE, BUT NOT TOO NORMAL...?!","<div>NORMAL TEXT HERE, BUT NOT TOO NORMAL...?!</div>",http://localhost:3000/test,"idk, maybe it's fine."
+daTA ClEanIng IS fun!!! #testing @uSER!!!???,<h2>daTA ClEanIng IS fun!!! #testing @uSER!!!???</h2>,https://example.com,"BRB, checking the link."
+DON'T FORGET: EMAIL@EXAMPLE.COM!!!!!!,<h2>DON&#x27;T FORGET: EMAIL@EXAMPLE.COM!!!!!!</h2>,https://www.google.com/search?q=hello%20world,FYI: please check ASAP.
+this is a TEsT sENtenCe wIth MIxEd caSe....,<ul><li>this is a TEsT sENtenCe wIth MIxEd caSe....</li><li>BTW...</li></ul>,https://www.google.com/search?q=hello%20world,LOL... what happened???
+This Is A Test Sentence With Mixed Case.!!!???,"<a href=""https://example.com/products/item-42?ref=email&amp;utm_source=test"">CLICK HERE!!!</a>",https://example.com/products/item-42?ref=email&utm_source=test,BTW... did you see this?
+PLEASE REVIEW THIS ASAP... THANKS! -- ,<ul><li>PLEASE REVIEW THIS ASAP... THANKS! -- </li><li>BTW...</li></ul>,https://openai.com/research/,TIL something new!!!
+"NORMAL TEXT HERE, BUT NOT TOO NORMAL......","<strong>NORMAL TEXT HERE, BUT NOT TOO NORMAL......</strong>",https://www.google.com/search?q=hello%20world,"idk, maybe it's fine."
+"NoRMal text hERe, bUt not TOo nOrmal...???","<em>NoRMal text hERe, bUt not TOo nOrmal...???</em>",http://localhost:3000/test,ASAP!!! Important!!!
