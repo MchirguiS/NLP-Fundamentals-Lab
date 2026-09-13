@@ -1,0 +1,301 @@
+Student_ID,Department,City,Education
+1,Cloud,Sousse,Bachelor
+2,Data Science,Sfax,Bachelor
+3,Cybersecurity,Tunis,Bachelor
+4,Web,Bizerte,Master
+5,Data Science,Nabeul,High School
+6,Web,Sfax,Master
+7,Web,Bizerte,High School
+8,AI,Tunis,Bachelor
+9,Cybersecurity,Tunis,Master
+10,Cloud,Sfax,Bachelor
+11,Data Science,Nabeul,Bachelor
+12,AI,Sfax,Bachelor
+13,Cloud,Nabeul,High School
+14,Cybersecurity,Bizerte,Master
+15,Cloud,Sfax,High School
+16,Data Science,Sfax,High School
+17,Data Science,Bizerte,High School
+18,Data Science,Bizerte,Master
+19,Web,Sfax,Bachelor
+20,AI,Bizerte,Master
+21,Cybersecurity,Sfax,High School
+22,Web,Sfax,Master
+23,AI,Nabeul,Bachelor
+24,Cybersecurity,Sousse,Master
+25,Cloud,Tunis,Bachelor
+26,Cloud,Sousse,High School
+27,AI,Bizerte,Bachelor
+28,Data Science,Nabeul,Master
+29,Web,Sousse,Bachelor
+30,Cybersecurity,Sousse,Bachelor
+31,Web,Nabeul,Bachelor
+32,Cloud,Tunis,Bachelor
+33,Cloud,Nabeul,Master
+34,Cybersecurity,Bizerte,Bachelor
+35,Cloud,Bizerte,High School
+36,Data Science,Sousse,Master
+37,Data Science,Tunis,High School
+38,Cloud,Sousse,Bachelor
+39,AI,Bizerte,High School
+40,Data Science,Nabeul,High School
+41,Cybersecurity,Bizerte,Master
+42,Cybersecurity,Tunis,Bachelor
+43,Data Science,Tunis,Master
+44,Data Science,Sousse,Master
+45,Cloud,Nabeul,High School
+46,Cloud,Nabeul,Master
+47,Cybersecurity,Sfax,Bachelor
+48,AI,Sfax,High School
+49,Data Science,Sousse,High School
+50,Web,Sousse,High School
+51,Cybersecurity,Sfax,Master
+52,Data Science,Bizerte,High School
+53,Cloud,Nabeul,Bachelor
+54,Data Science,Tunis,High School
+55,Cybersecurity,Sousse,High School
+56,Cybersecurity,Sfax,Master
+57,Data Science,Nabeul,High School
+58,Cybersecurity,Nabeul,Master
+59,Web,Sousse,Bachelor
+60,Cloud,Sousse,High School
+61,Data Science,Bizerte,Master
+62,Web,Tunis,High School
+63,AI,Tunis,High School
+64,Cybersecurity,Tunis,Master
+65,Web,Tunis,Master
+66,Data Science,Sousse,Master
+67,Cybersecurity,Sousse,High School
+68,Cloud,Sfax,High School
+69,Cybersecurity,Nabeul,Master
+70,Data Science,Nabeul,High School
+71,Data Science,Bizerte,Master
+72,Web,Nabeul,Bachelor
+73,Web,Tunis,Bachelor
+74,Cloud,Bizerte,Master
+75,Cloud,Bizerte,Master
+76,Cloud,Sfax,Bachelor
+77,Cybersecurity,Bizerte,High School
+78,Data Science,Sfax,High School
+79,Data Science,Sfax,Master
+80,Data Science,Nabeul,Bachelor
+81,Cloud,Bizerte,Bachelor
+82,Web,Tunis,Master
+83,AI,Sousse,Bachelor
+84,Cloud,Sousse,Bachelor
+85,Data Science,Bizerte,High School
+86,Data Science,Tunis,High School
+87,Data Science,Bizerte,Bachelor
+88,Cybersecurity,Sfax,High School
+89,Cybersecurity,Tunis,High School
+90,Web,Nabeul,Bachelor
+91,Cybersecurity,Sousse,Master
+92,Cloud,Sousse,Master
+93,Cloud,Nabeul,Bachelor
+94,Cloud,Sfax,High School
+95,Data Science,Sousse,Bachelor
+96,AI,Sousse,High School
+97,Web,Sousse,High School
+98,Data Science,Sfax,High School
+99,Cloud,Bizerte,Master
+100,AI,Bizerte,High School
+101,Cybersecurity,Bizerte,Master
+102,AI,Bizerte,High School
+103,Cybersecurity,Nabeul,Bachelor
+104,Data Science,Nabeul,Bachelor
+105,Web,Sfax,Master
+106,AI,Nabeul,Master
+107,Cloud,Bizerte,High School
+108,Web,Nabeul,Bachelor
+109,Data Science,Bizerte,Bachelor
+110,Cybersecurity,Sfax,High School
+111,Web,Tunis,Master
+112,Cybersecurity,Bizerte,Master
+113,Data Science,Sousse,Bachelor
+114,Data Science,Tunis,High School
+115,AI,Tunis,Bachelor
+116,Data Science,Sousse,Bachelor
+117,Cloud,Nabeul,Bachelor
+118,Cybersecurity,Tunis,Bachelor
+119,Data Science,Bizerte,Bachelor
+120,AI,Sfax,Bachelor
+121,Data Science,Nabeul,Master
+122,AI,Sousse,Bachelor
+123,Data Science,Nabeul,Master
+124,Cloud,Nabeul,Bachelor
+125,Data Science,Bizerte,Master
+126,AI,Tunis,Bachelor
+127,Web,Bizerte,Master
+128,Web,Nabeul,Bachelor
+129,Cloud,Sousse,Bachelor
+130,Cybersecurity,Sfax,Bachelor
+131,Cloud,Sousse,Bachelor
+132,Cloud,Sousse,Master
+133,Data Science,Sousse,High School
+134,AI,Bizerte,Bachelor
+135,Web,Sousse,Master
+136,Cybersecurity,Nabeul,High School
+137,Web,Tunis,Bachelor
+138,Data Science,Tunis,Bachelor
+139,Data Science,Sfax,Master
+140,Cloud,Nabeul,High School
+141,Data Science,Sfax,Bachelor
+142,Cloud,Sfax,Master
+143,Web,Sfax,High School
+144,Cloud,Nabeul,High School
+145,AI,Sousse,High School
+146,Web,Sousse,Master
+147,Cloud,Sfax,Bachelor
+148,Cybersecurity,Sousse,Master
+149,Cloud,Bizerte,Master
+150,AI,Bizerte,High School
+151,Web,Sfax,Master
+152,AI,Tunis,High School
+153,Cybersecurity,Sousse,Bachelor
+154,Cloud,Sfax,High School
+155,Cybersecurity,Sousse,Master
+156,Cloud,Nabeul,Master
+157,AI,Sfax,Master
+158,AI,Sousse,Bachelor
+159,Cybersecurity,Bizerte,Master
+160,Cybersecurity,Sfax,Master
+161,AI,Sfax,Bachelor
+162,Cybersecurity,Bizerte,Bachelor
+163,AI,Sfax,Bachelor
+164,Cloud,Nabeul,High School
+165,Cybersecurity,Tunis,Bachelor
+166,Web,Sfax,High School
+167,Cloud,Bizerte,Master
+168,Web,Sousse,Bachelor
+169,AI,Tunis,Master
+170,Data Science,Sousse,High School
+171,Cloud,Sfax,High School
+172,Cloud,Sousse,High School
+173,Cybersecurity,Sfax,High School
+174,Web,Sfax,Master
+175,AI,Sousse,Master
+176,Data Science,Sousse,High School
+177,AI,Tunis,Bachelor
+178,Web,Bizerte,Master
+179,Web,Sousse,Master
+180,Web,Sousse,Bachelor
+181,Web,Sousse,High School
+182,Cybersecurity,Nabeul,High School
+183,Cloud,Nabeul,Bachelor
+184,Data Science,Nabeul,Master
+185,Web,Nabeul,Bachelor
+186,Data Science,Sousse,Bachelor
+187,Data Science,Nabeul,High School
+188,Cloud,Sousse,Master
+189,Web,Nabeul,Bachelor
+190,Cloud,Sousse,High School
+191,AI,Sfax,Bachelor
+192,Web,Tunis,Bachelor
+193,Data Science,Sousse,Bachelor
+194,AI,Sousse,Master
+195,AI,Bizerte,Bachelor
+196,AI,Sousse,Master
+197,Data Science,Tunis,Bachelor
+198,AI,Sousse,Bachelor
+199,Cybersecurity,Sfax,High School
+200,Data Science,Nabeul,High School
+201,Cloud,Nabeul,Bachelor
+202,Cloud,Nabeul,Bachelor
+203,Web,Sousse,Bachelor
+204,Data Science,Nabeul,Master
+205,Web,Bizerte,Master
+206,Cybersecurity,Tunis,Bachelor
+207,Data Science,Bizerte,Bachelor
+208,AI,Bizerte,Master
+209,Data Science,Nabeul,Master
+210,Cloud,Tunis,Bachelor
+211,Web,Sousse,Bachelor
+212,Web,Bizerte,Master
+213,Web,Tunis,Bachelor
+214,AI,Tunis,Bachelor
+215,Web,Bizerte,High School
+216,Cloud,Sfax,Master
+217,Cybersecurity,Bizerte,Bachelor
+218,Data Science,Sousse,Bachelor
+219,Web,Sfax,Bachelor
+220,Data Science,Nabeul,Master
+221,AI,Sousse,Master
+222,Cybersecurity,Bizerte,Bachelor
+223,Web,Sousse,High School
+224,Cloud,Bizerte,Master
+225,AI,Bizerte,Bachelor
+226,AI,Nabeul,Master
+227,Data Science,Tunis,Bachelor
+228,AI,Nabeul,Bachelor
+229,Cybersecurity,Nabeul,High School
+230,Web,Bizerte,Bachelor
+231,Cloud,Nabeul,High School
+232,Cybersecurity,Nabeul,High School
+233,Data Science,Sousse,High School
+234,Web,Sfax,Bachelor
+235,Data Science,Sousse,Master
+236,Cloud,Bizerte,High School
+237,Web,Bizerte,High School
+238,Data Science,Tunis,High School
+239,Data Science,Sousse,Bachelor
+240,AI,Bizerte,High School
+241,Cybersecurity,Nabeul,Master
+242,AI,Sousse,Master
+243,Data Science,Tunis,Bachelor
+244,Data Science,Bizerte,Bachelor
+245,AI,Sousse,Bachelor
+246,Data Science,Sfax,High School
+247,Cybersecurity,Bizerte,High School
+248,AI,Tunis,Master
+249,Web,Bizerte,Bachelor
+250,AI,Sfax,Bachelor
+251,Web,Tunis,Bachelor
+252,AI,Sfax,High School
+253,Data Science,Sfax,Master
+254,Cloud,Nabeul,High School
+255,Data Science,Sfax,Bachelor
+256,Web,Sousse,Master
+257,Cybersecurity,Tunis,Bachelor
+258,Web,Sousse,High School
+259,Cybersecurity,Sousse,Bachelor
+260,Data Science,Sousse,Bachelor
+261,Cybersecurity,Tunis,Bachelor
+262,Cloud,Tunis,Bachelor
+263,Data Science,Sfax,Bachelor
+264,Data Science,Tunis,High School
+265,Web,Sfax,Bachelor
+266,Cybersecurity,Sousse,High School
+267,Data Science,Sousse,High School
+268,Cybersecurity,Sousse,Master
+269,AI,Tunis,High School
+270,Data Science,Sfax,High School
+271,Cloud,Bizerte,Master
+272,Cloud,Tunis,Bachelor
+273,AI,Nabeul,High School
+274,Web,Tunis,Master
+275,AI,Tunis,High School
+276,AI,Nabeul,High School
+277,Cloud,Sousse,High School
+278,AI,Sfax,Bachelor
+279,Data Science,Nabeul,Master
+280,Cloud,Tunis,Master
+281,Cloud,Sousse,High School
+282,AI,Nabeul,Bachelor
+283,Cloud,Bizerte,Master
+284,Cloud,Sfax,High School
+285,Data Science,Tunis,High School
+286,Cybersecurity,Tunis,High School
+287,Cybersecurity,Bizerte,Bachelor
+288,Web,Tunis,Bachelor
+289,AI,Bizerte,Bachelor
+290,AI,Sousse,High School
+291,Cloud,Tunis,High School
+292,Cloud,Tunis,Master
+293,Cybersecurity,Tunis,Bachelor
+294,Data Science,Sfax,Master
+295,Web,Sousse,Master
+296,Data Science,Sousse,Bachelor
+297,Cloud,Nabeul,Bachelor
+298,Cloud,Bizerte,Master
+299,Web,Nabeul,Master
+300,Web,Sfax,Master
